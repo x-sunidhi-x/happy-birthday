@@ -34,7 +34,7 @@ function Cake(props){
         </div>
     </div>
     <div class="layer f4">
-    <div style={{color:"white"}}>Bikash 20</div>
+    
       <div class="drip-ctn">
         <div class="drip d1"></div>
         <div class="drip d2"></div>
