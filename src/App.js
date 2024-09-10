@@ -11,7 +11,7 @@ function App() {
   return (
     <div className='App'>
       <p>Smart, good looking, and funny!<br/><br/>But enough about me.<br/></p>
-        <h1>HAPPY BIRTHDAY SAGAR AND ASHRITH!!</h1>
+        <h1>HAPPY BIRTHDAY MEHHH!!</h1>
         <center>
       
         <button  onClick={() => {
